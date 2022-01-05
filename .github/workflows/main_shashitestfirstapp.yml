@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'ShashiTestFirstApp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4DC0C8360B544C4F9C5D1712B90A1991 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9B0B36D362BF441FB4D90D54FDC53596 }}
